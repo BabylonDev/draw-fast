@@ -1,6 +1,6 @@
 # Draw Fast
 
-**Draw Fast** is a demo that shows how you can use the [**tldraw library**](https://tldraw.dev) with realtime image generation. The demo has now finished and we’ve taken it down. But you can still run it on your own machine and try it out.
+**Draw Fast** shows how you can use the [**tldraw library**](https://tldraw.dev) with realtime image generation. The demo has now finished and we’ve taken it down. But you can still run it on your own machine and try it out.
 
 Here are two ways of doing that.
 
